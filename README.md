@@ -1,5 +1,5 @@
 # Byte-Airlines
-A Final Term Requirement developing an Airline Ticketing System using C# Object-Oriented Programming. Developed usig C# OOP, Visual Studio, .NET, MySQL, and XAMPP. 
+An Airline Ticketing System using C# Object-Oriented Programming. Developed usig C# OOP, Visual Studio, .NET, MySQL, and XAMPP. 
 
 Requirements: 
 Install Visual Studio for reading and editing of source
